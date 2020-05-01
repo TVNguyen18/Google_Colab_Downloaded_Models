@@ -1,0 +1,91 @@
+Run 1,,# of Nodes,Activation Function
+,Layer 1,200,ReLU
+,Layer 2,20,ReLU
+,Layer 3,270,ReLU
+,Layer 4,100,ReLU
+,Layer 5,1,Sigmoid
+,,,
+Run 2,,# of Nodes,Activation Function
+,Layer 1,200,ReLU
+,Layer 2,20,ReLU
+,Layer 3,270,ReLU
+,Layer 4,100,ReLU
+,Layer 5,1,Sigmoid
+,,,
+,,,
+Run 3,,# of Nodes,Activation Function
+,Layer 1,200,ReLU
+,Layer 2,20,ReLU
+,Layer 3,270,ReLU
+,Layer 4,100,ReLU
+,Layer 5,1,Sigmoid
+,,,
+,,,
+Run 4,,# of Nodes,Activation Function
+,Layer 1,200,ReLU
+,Layer 2,20,ReLU
+,Layer 3,270,ReLU
+,Layer 4,100,ReLU
+,Layer 5,1,Sigmoid
+,,,
+,,,
+Run 5,,# of Nodes,Activation Function
+,Layer 1,250,ReLU
+,Layer 2,40,ReLU
+,Layer 3,270,ReLU
+,Layer 4,100,ReLU
+,Layer 5,1,Sigmoid
+,,,
+,,,
+Run 6,,# of Nodes,Activation Function
+,Layer 1,250,ReLU
+,Layer 2,40,ReLU
+,Layer 3,270,ReLU
+,Layer 4,100,ReLU
+,Layer 5,1,Sigmoid
+,,,
+,,,
+Run 7,,# of Nodes,Activation Function
+,Layer 1,200,ReLU
+,Layer 2,40,ReLU
+,Layer 3,300,ReLU
+,Layer 4,10,ReLU
+,Layer 5,1,Sigmoid
+,,,
+Run 8,,# of Nodes,Activation Function
+,Layer 1,200,ReLU
+,Layer 2,40,ReLU
+,Layer 3,300,ReLU
+,Layer 4,10,ReLU
+,Layer 5,1,Sigmoid
+,,,
+Run 9,,# of Nodes,Activation Function
+,Layer 1,200,ReLU
+,Layer 2,40,ReLU
+,Layer 3,100,ReLU
+,Layer 4,10,ReLU
+,Layer 5,1,Sigmoid
+,,,
+,,,
+Run 10,,# of Nodes,Activation Function
+,Layer 1,200,ReLU
+,Layer 2,20,ReLU
+,Layer 3,100,ReLU
+,Layer 4,10,ReLU
+,Layer 5,1,Sigmoid
+,,,
+,,,
+Run 11,,# of Nodes,Activation Function
+,Layer 1,200,ReLU
+,Layer 2,20,ReLU
+,Layer 3,100,ReLU
+,Layer 4,10,ReLU
+,Layer 5,10,ReLU
+,Layer 6,1,Sigmoid
+,,,
+,,,
+Run 12,,# of Nodes,Activation Function
+,Layer 1,200,ReLU
+,Layer 2,300,ReLU
+,Layer 3,10,ReLU
+,Layer 4,1,Sigmoid
